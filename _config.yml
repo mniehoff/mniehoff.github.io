@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "dirt" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Matthias Niehoff"
 title_separator          : "-"
 name                     : &name "Matthias Niehoff"
@@ -23,10 +23,10 @@ repository               : "mniehoff/mniehoff.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Matthias Niehoff"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Experienced data architect & engineer with broad technical skills, architectural thinking and a track record in enabling and evolving data teams and companies."
   location         : "Düsseldorf, Germany"
   employer         : "codecentric AG"
   uri              : # URL
@@ -93,11 +93,11 @@ publication_category:
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false      #change to true to add link to talkmap on talks page
+talkmap_link             : true      #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
