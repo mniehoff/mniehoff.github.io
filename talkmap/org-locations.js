@@ -25,6 +25,26 @@ var addressPoints = [
     8.694724
   ],
   [
+    "Lessons learned with Spark and Cassandra<br />Strata Data London 2017; London, United Kingdom",
+    51.5074456,
+    -0.1277653
+  ],
+  [
+    "CQRS and Event Sourcing Applications with Cassandra<br />Cassandra Summit 2015; Santa Clara, CA",
+    37.3541132,
+    -121.955174
+  ],
+  [
+    "Analytics with Cassandra and Spark<br />Coding Serbia 2015; Novi Sad, Serbia",
+    45.2551338,
+    19.8451756
+  ],
+  [
+    "Lessons learned with Spark and Cassandra<br />ApacheCon North America 2017; Miami, FL",
+    25.7741566,
+    -80.1935973
+  ],
+  [
     "Mit duckdb schell und einfach Daten analysieren - egal wo sie gespeichert sind<br />m3 Konferenz 2025; Karlsruhe, Germany",
     49.0068705,
     8.4034195
@@ -33,6 +53,11 @@ var addressPoints = [
     "Analyze data easily with duckdb - and the implications on data architectures<br />pycon/pydata DE 2025; Darmstadt, Germany",
     49.872775,
     8.651177
+  ],
+  [
+    "Data Stream Processing Concepts and Implementations<br />ApacheCon North America 2017; Antwerp, Belgium",
+    51.2211097,
+    4.3997081
   ],
   [
     "Mit duckdb schell und einfach Daten analysieren \u2013 egal, wo sie gespeichert sind<br />IT Tage 2025; Frankfurt, Germany",
@@ -93,6 +118,11 @@ var addressPoints = [
     "Data Aware Architectures als Basis f\u00fcr KI & Analytics<br />Developer Week 2025; Mannheim, Germany",
     49.4892913,
     8.4673098
+  ],
+  [
+    "Lessons learned with Spark and Cassandra<br />Cassandra Summit 2016; San Jose, CA",
+    37.3361663,
+    -121.890591
   ],
   [
     "Datenanalysen zur Versorgungssicherheit \u2013 Eine Plattform f\u00fcr Fachleute und Data Engineers<br />data2day 2025; Karlsruhe, Germany",
