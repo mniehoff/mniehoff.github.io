@@ -7,4 +7,4 @@ tags: ["german", "codecentric", "tech-briefing"]
 
 „Data is the new oil“ — dennoch fehlt vielen Unternehmen Transparenz über ihre Datenbestände. Data Governance-Ansätze wie das Data Mesh zielen darauf ab, teamübergreifenden Austausch und standardisierte Nutzung zu ermöglichen, ohne Agilität einzuschränken.
 
-Original post: https://www.codecentric.de/wissens-hub/blog/data-governance-daten-demokratisieren
+[Original post](https://www.codecentric.de/wissens-hub/blog/data-governance-daten-demokratisieren)
