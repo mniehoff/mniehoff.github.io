@@ -40,6 +40,9 @@ for file in g:
     location = data['location'].strip()
     description = f"{title}<br />{venue}; {location}"
 
+    if location.lower() == "online":
+        continue
+
     # Geocode the location and report the status
     try:
         location_dict[description] = geocoder.geocode(location, timeout=TIMEOUT)

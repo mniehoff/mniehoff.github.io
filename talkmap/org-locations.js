@@ -20,16 +20,6 @@ var addressPoints = [
     13.3951309
   ],
   [
-    "Modern Data Architectures - What They Are and How to Implement?<br />iSAQB Software Architecture Gathering \u2013 Digital 2023; Online",
-    43.5904719,
-    3.8595132
-  ],
-  [
-    "Continuous Integration for ML applications - a practical example<br />WeAreDevelopers Live 2022; Online",
-    43.5904719,
-    3.8595132
-  ],
-  [
     "Datenarchitekturen in der Realit\u00e4t \u2013 Was passt bei uns?<br />data2day 2024; Heidelberg, Germany",
     49.4093582,
     8.694724
