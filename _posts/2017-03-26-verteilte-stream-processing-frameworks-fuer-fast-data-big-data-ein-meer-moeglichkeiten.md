@@ -1,7 +1,7 @@
 ---
 title: "Verteilte Stream Processing Frameworks für Fast Data & Big Data – Ein Meer an Möglichkeiten"
 date: 2017-03-26
-permalink: /2017-03-26-verteilte-stream-processing-frameworks-fuer-fast-data-big-data-ein-meer-moeglichkeiten
+permalink: /posts/2017/03/verteilte-stream-processing-frameworks-fuer-fast-data-big-data-ein-meer-moeglichkeiten
 tags: ["german", "codecentric"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Datenlookup in Spark Streaming"
 date: 2017-06-01
-permalink: /2017-06-01-datenlookup-in-spark-streaming
+permalink: /posts/2017/06/datenlookup-in-spark-streaming
 tags: ["german", "codecentric"]
 ---
 

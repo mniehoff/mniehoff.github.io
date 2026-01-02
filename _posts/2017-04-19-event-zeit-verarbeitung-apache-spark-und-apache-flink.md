@@ -1,7 +1,7 @@
 ---
 title: "Event‑Zeit‑Verarbeitung in Apache Spark und Apache Flink"
 date: 2017-04-19
-permalink: /2017-04-19-event-zeit-verarbeitung-apache-spark-und-apache-flink
+permalink: /posts/2017/04/event-zeit-verarbeitung-apache-spark-und-apache-flink
 tags: ["german", "codecentric"]
 ---
 
